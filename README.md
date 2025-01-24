@@ -1,13 +1,9 @@
-![MasterHead](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHY3OGhsbzR4dzQyNndlNDk0YjMzMHZuZDA4eTI0YXo1N2M0MDhqciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YvpiA9uMWw5AMU/giphy.gif)
+![MasterHead](https://media.tenor.com/GVk4jB2u_i8AAAPo/coding.mp4)
 <h1 align="center">Hi 👋, I'm Tharindu Lakmal</h1>
 <h3 align="center">A passionate networking enthusiast from Sri Lanka.</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHg1anpra2k5dHI0OGQ4cWtqcTh0bGhjYTNncGdiN3d4ZDV4YnpmZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1J9HDdEWq7rAs1hu/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/p2eovClgAMoAAAAd/designer-coffee-break.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharindu-l&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu-l" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharindu-l" alt="tharindu-l" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Web project**
 
