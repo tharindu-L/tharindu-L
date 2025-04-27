@@ -1,6 +1,6 @@
 ![MasterHead](https://png.pngtree.com/thumb_back/fh260/back_our/20190620/ourmid/pngtree-business-network-technology-blue-banner-image_165993.jpg)
 <h1 align="center">Hi 👋, I'm Tharindu Lakmal</h1>
-<h3 align="center">A passionate networking enthusiast from Sri Lanka.</h3>
+<h3 align="center">A passionate Cyber Security & Networking enthusiast from Sri Lanka.</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/p2eovClgAMoAAAAd/designer-coffee-break.gif">
 
 
