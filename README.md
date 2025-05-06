@@ -1,4 +1,4 @@
-![MasterHead](‪C:\Users\tharindu\Downloads\Header.jpg)
+![MasterHead](‪https://drive.google.com/file/d/1lkihtW7ZMea66-oNPsAS5mIn4XTo_Xc2/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Tharindu Lakmal</h1>
 <h3 align="center">A passionate Computer Networking & Cyber Security enthusiast from Sri Lanka.</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/p2eovClgAMoAAAAd/designer-coffee-break.gif">
