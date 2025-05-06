@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **thaindu2002pathmasiri@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16mgRLNaJc9IKK7fxK_t9d7GcrQqFho5S/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16mgRLNaJc9IKK7fxK_t9d7GcrQqFho5S/view?usp=sharing]
 
 - ⚡ Fun fact **:)**
 
