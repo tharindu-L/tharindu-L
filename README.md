@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **thaindu2002pathmasiri@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGAKoKjIS8/QMvtORMCmjl0p0jqME1fPQ/view?utm_content=DAGAKoKjIS8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h899a445a48](https://www.canva.com/design/DAGAKoKjIS8/QMvtORMCmjl0p0jqME1fPQ/view?utm_content=DAGAKoKjIS8&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h899a445a48)
+- 📄 Know about my experiences [https://drive.google.com/file/d/16mgRLNaJc9IKK7fxK_t9d7GcrQqFho5S/view?usp=sharing)
 
 - ⚡ Fun fact **:)**
 
