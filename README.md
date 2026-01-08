@@ -1,15 +1,13 @@
 ![MasterHead](https://i.postimg.cc/Y2YYtGDL/1745638505247.jpg)
 <h1 align="center">Hi 👋, I'm Tharindu Lakmal</h1>
-<h3 align="center">A passionate Cyber Security & Networking enthusiast from Sri Lanka.</h3>
+<h3 align="center">A passionate Offensive Cyber Security enthusiast from Sri Lanka.</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/p2eovClgAMoAAAAd/designer-coffee-break.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tharindu-l&label=Profile%20views&color=0e75b6&style=flat" alt="tharindu-l" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Secure Company Network System Design**
-
-- 💬 Ask me about **Networking, Cyber Security**
+- 💬 Ask me about **Cyber Security, Networking**
 
 - 📫 How to reach me **thaindu2002pathmasiri@gmail.com**
 
